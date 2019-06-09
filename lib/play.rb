@@ -35,4 +35,11 @@ def turn(board)
   end
 end
 
-# Define your play method below
+def #play
+counter = 0
+while counter < 9
+  puts "The current number is less than 20."
+  counter += 1
+end
+end
+
